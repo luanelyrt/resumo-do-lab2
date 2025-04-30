@@ -2,9 +2,9 @@
 Neste laboratório, eu pratiquei o processo de criação e configuração de uma máquina virtual na plataforma Microsoft Azure com apoio da documentação oficial em artigo no Microsoft Learning [Início Rápido: Criar uma máquina virtual do Windows no Portal do Azure](https://learn.microsoft.com/pt-br/azure/virtual-machines/windows/quick-create-porta), disponível na seção "Recursos Úteis" do conteúdo Entendendo o Desafio. Assim aprofundando meu real entendimento sobre SLA’s e suas implicações no ambiente de nuvem.  
 
 Evidências das práticas realizadas:  
-![**Implantação concluída na VM do laboratório 2**](./images/implantacao-concluida-vm-do-lab2.png)  
-![**Visão geral das propriedades da VM do laboratório 2**](./images/visao-geral-das-propriedades-da-vm-do-lab2.png)  
-![**Conexão via CLI do Azure na VM do laboratório 2 instanciada**](./images/conexao-via-cli-do-azure-na-vm-do-lab2-instanciada.png)  
+![Implantação concluída na VM do laboratório 2](/.images/implantacao-concluida-vm-do-lab2.png)  
+![Visão geral das propriedades da VM do laboratório 2](/.images/visao-geral-das-propriedades-da-vm-do-lab2.png)  
+![Conexão via CLI do Azure na VM do laboratório 2 instanciada](/.images/conexao-via-cli-do-azure-na-vm-do-lab2-instanciada.png)  
 
 Devido ao projeto proposto para concluir a entrega do desafio, eu pude aprender a:
 - Aplicar os conceitos de computação em nuvem em um cenário prático;
