@@ -1,5 +1,5 @@
 ## Resumo do Laboratório 2 (Desafio de Projeto - Criando máquinas Virtuais no Azure) do Bootcamp "Microsoft 50 anos - Computação em Nuvem com Azure".  
-Neste laboratório, eu pratiquei o processo de criação e configuração de uma máquina virtual na plataforma Microsoft Azure com apoio da documentação oficial em artigo no Microsoft Learning [Início Rápido: Criar uma máquina virtual do Windows no Portal do Azure](https://learn.microsoft.com/pt-br/azure/virtual-machines/windows/quick-create-porta), disponível na seção "Recursos Úteis" do conteúdo Entendendo o Desafio. Assim aprofundando meu real entendimento sobre SLA’s e suas implicações no ambiente de nuvem.  
+Neste laboratório, eu pratiquei o processo de criação para máquina virtual na plataforma Microsoft Azure com apoio da documentação oficial em artigo no Microsoft Learning "[Início Rápido: Criar uma máquina virtual do Windows no Portal do Azure](https://learn.microsoft.com/pt-br/azure/virtual-machines/windows/quick-create-porta)", indicado na seção "Recursos Úteis" do conteúdo Entendendo o Desafio. Assim aprofundando meu real entendimento sobre SLA’s e suas implicações no ambiente de nuvem.  
 
 Evidências das práticas realizadas:  
 ![Implantação concluída na VM do laboratório 2](/.images/implantacao-concluida-vm-do-lab2.png)  
