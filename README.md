@@ -6,10 +6,10 @@ Evidências das práticas realizadas:
 ![Visão geral das propriedades da VM do laboratório 2](/.images/visao-geral-das-propriedades-da-vm-do-lab2.png)  
 ![Conexão via CLI do Azure na VM do laboratório 2 instanciada](/.images/conexao-via-cli-do-azure-na-vm-do-lab2-instanciada.png)  
 
-Devido ao projeto proposto para concluir a entrega do desafio, eu pude aprender a:
+Devido ao desafio proposto para concluir a entrega do projeto, eu pude aprender a:
 - Aplicar os conceitos de computação em nuvem em um cenário prático (exercitando também o entendimento sobre SLA's e suas implicações no ambiente de nuvem);
 - Documentar processos técnicos de forma clara e estruturada;
 - Utilizar o GitHub como ferramenta para compartilhamento de documentação técnica. 
 
-Para concluir o laboratório, assisti às video-aulas que forneceram orientações essenciais e criei este repositório corrente no GitHub contendo um arquivo README.md detalhado, onde registrei todas as etapas do processo. Essa documentação servirá como referência para futuras implementações e aprimoramento do meu conhecimento em Azure.
-Essa experiência foi fundamental para reforçar minha capacidade de trabalhar com infraestrutura na nuvem, garantindo boas práticas e eficiência na utilização dos recursos disponíveis.
+Para concluir o laboratório, assisti às video-aulas que forneceram orientações essenciais e criei este repositório corrente no GitHub contendo este arquivo README.md com todo detalhamento, onde registrei todas as etapas do processon que realizei. Essa documentação servirá como referência para futuras implementações e aprimoramento do meu conhecimento em Azure.
+Essa experiência também foi fundamental para reforçar minha capacidade de trabalhar com infraestrutura na nuvem, garantindo boas práticas e eficiência na utilização dos recursos disponíveis.
